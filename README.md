@@ -2,6 +2,10 @@
 
 # Senior Frontend Developer Test
 
+## clone the repository
+
+-- Repository (https://github.com/marquessent/dogandponystudios)
+
 ## run npm install
 
 npm install
